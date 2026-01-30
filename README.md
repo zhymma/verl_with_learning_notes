@@ -1,4 +1,14 @@
 <div align="center">
+
+> 📚 **本仓库基于 [volcengine/verl](https://github.com/volcengine/verl) 项目**
+> 添加了**超过 210,000 字**的中文学习笔记和示例文档
+> 详见 [learning_notes/](learning_notes/) 和 [examples/*/README_CN.md](examples/)
+
+</div>
+
+---
+
+<div align="center">
  👋 Hi, everyone!
     verl is a RL training library initiated by <b>ByteDance Seed team</b> and maintained by the verl community.
     <br>
